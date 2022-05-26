@@ -5,8 +5,12 @@
 ***
 
 # GW Open Data Workshop #5
+**-- fork by Francesco Barone, for personal use**
 
-This repository contains the material to support [GW Open Data Workshop #5](https://www.gw-openscience.org/odw/odw2022).
+This repository contains the material to support [GW Open Data Workshop #5](https://www.gw-openscience.org/odw/odw2022). This fork contains my solutions & answers to the workshop Tutorials & Challenge.
+
+
+<details><summary>Original repo details</summary><blockquote>
 
 Firstly, we recommend taking a look at the setup guide, where you can find the information to configure the workspace where you are going to execute the tutorials.
 
@@ -19,6 +23,8 @@ Lastly, test yourself with the [GW Data Challenge](./Challenge/)!
 At the following link, several options are presented, with the indication of their difficulty and OS dependency. Feel free to pick the one that suits best for your needs.
 
 **[Software Setup Instructions](./setup.md)**
+
+</blockquote></details>
 
 ## Hands-on sessions
 
