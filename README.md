@@ -3,10 +3,9 @@
 </p>
 
 ***
-
-<p align="middle">
-# GW Open Data Workshop #5
-**[fork by Francesco Barone, for personal use]**
+<h1 align="center">GW Open Data Workshop #5</h1>
+<p align="center">
+\[fork for personal use\]
 </p>
 
 In this repository you will find the material to support [GW Open Data Workshop #5](https://www.gw-openscience.org/odw/odw2022). This forked version contains my solutions & answers to the workshop Tutorials & Challenge.
