@@ -14,7 +14,7 @@ In this repository you will find the material to support [GW Open Data Workshop 
 
 
 <details><summary>Original repo details</summary><blockquote>
-
+<br><br>
 Firstly, we recommend taking a look at the setup guide, where you can find the information to configure the workspace where you are going to execute the tutorials.
 
 In the [Tutorials](./Tutorials/) folder, you can find the various notebooks for the three days, divided on the base of their topics. There are also some quiz that you are asked to complete at the end of each session.

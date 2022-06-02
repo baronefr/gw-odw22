@@ -1,0 +1,14 @@
+ > gwc2 with t = 1638.17, mass = 17, mc = 14.799
+H1_optimal_snr = 0.7701370361968549, 90% C.I. = [0.20489485439182914, 1.7621118893849357]
+L1_optimal_snr = 0.9063370051160279, 90% C.I. = [0.2769026552104285, 2.023005233620395]
+mass_1 = 15.965604677851793, 90% C.I. = [14.06433707256261, 18.148999148073923]
+mass_2 = 15.88706500059602, 90% C.I. = [13.992852701574444, 18.058427796238778]
+chirp_mass = 13.86681598643651, 90% C.I. = [12.213024392999788, 15.770172152608817]
+
+ > run info
+ln Bayes factor = -0.4411649536841558 +/- 0.09192049574752618
+nlive =500
+dlogz =0.2
+
+>> Priors
+{'mass_ratio': Uniform(minimum=0.99, maximum=1.0, name='mass_ratio', latex_label='$q$', unit=None, boundary=None), 'chirp_mass': Uniform(minimum=12, maximum=16, name='chirp_mass', latex_label='$M_c$', unit='$M_{\\odot}$', boundary=None), 'luminosity_distance': Uniform(minimum=100.0, maximum=5000.0, name='luminosity_distance', latex_label='$d_L$', unit=None, boundary=None), 'dec': Cosine(minimum=-1.5707963267948966, maximum=1.5707963267948966, name='dec', latex_label='$\\mathrm{DEC}$', unit=None, boundary=None), 'ra': Uniform(minimum=0, maximum=6.283185307179586, name='ra', latex_label='$\\mathrm{RA}$', unit=None, boundary='periodic'), 'theta_jn': Sine(minimum=0, maximum=3.141592653589793, name='theta_jn', latex_label='$\\theta_{JN}$', unit=None, boundary=None), 'psi': Uniform(minimum=0, maximum=3.141592653589793, name='psi', latex_label='$\\psi$', unit=None, boundary='periodic'), 'a_1': Uniform(minimum=0, maximum=0.99, name='a_1', latex_label='$a_1$', unit=None, boundary=None), 'a_2': Uniform(minimum=0, maximum=0.99, name='a_2', latex_label='$a_2$', unit=None, boundary=None), 'tilt_1': Sine(minimum=0, maximum=3.141592653589793, name='tilt_1', latex_label='$\\theta_1$', unit=None, boundary=None), 'tilt_2': Sine(minimum=0, maximum=3.141592653589793, name='tilt_2', latex_label='$\\theta_2$', unit=None, boundary=None), 'phi_12': Uniform(minimum=0, maximum=6.283185307179586, name='phi_12', latex_label='$\\Delta\\phi$', unit=None, boundary='periodic'), 'phi_jl': Uniform(minimum=0, maximum=6.283185307179586, name='phi_jl', latex_label='$\\phi_{JL}$', unit=None, boundary='periodic'), 'time_jitter': Uniform(minimum=-0.000244140625, maximum=0.000244140625, name='time_jitter', latex_label='$t_j$', unit=None, boundary='periodic'), 'phase': Uniform(minimum=0, maximum=6.283185307179586, name='phase', latex_label='$\\phi$', unit=None, boundary='periodic'), 'geocent_time': DeltaFunction(peak=1636.17, name=None, latex_label=None, unit=None)}

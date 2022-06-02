@@ -1,8 +1,19 @@
-# Data Challenge 
-
-### GW Open Data Workshop #5
+# Data Challenge
 
 Challenge activity for the Open Data Workshop 2022: https://www.gw-openscience.org/odw/odw2022/
+
+You find my answers **[here](./myans.md)**. The notebook are organized as following:
+
+```
+Notebook index:
+- mychallenge_12   -> ans to challenge 1 and 2
+- mychallenge_34a  -> ans to challenge 3 and first part of 4
+- mychallenge_4b   -> ans to second part of challenge 4
+```
+
+<br><br><br>
+
+<details><summary>Challenge instructions</summary><blockquote>
 
 Data files may be downloaded using these links:
 
@@ -123,3 +134,5 @@ gwpy_strain = TimeSeries.read('challenge3.gwf', channel="H1:CHALLENGE3")
 from pycbc import frame
 pycbc_strain = frame.read_frame('challenge3.gwf', 'H1:CHALLENGE3')
 ```
+
+</blockquote></details>
