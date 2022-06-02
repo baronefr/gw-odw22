@@ -63,5 +63,5 @@ As for the **posterior analysis**, it has been performed in notebook *mychalleng
 
 ***
 
-*coder*: Barone Francesco Pio  |   git@[baronefr](http://github.com/baronefr)
+coder: Barone Francesco Pio  |  git@[baronefr](http://github.com/baronefr)
 <br>MSc in *Physics of Data*, University of Padua, AY 2021/22

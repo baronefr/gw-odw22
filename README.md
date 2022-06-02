@@ -11,8 +11,6 @@
 In this repository you will find the material to support [GW Open Data Workshop #5](https://www.gw-openscience.org/odw/odw2022). This forked version contains my solutions & answers to the workshop Tutorials & Challenge.
 
 
-
-
 <details><summary>Original repo details</summary><blockquote>
 <br><br>
 Firstly, we recommend taking a look at the setup guide, where you can find the information to configure the workspace where you are going to execute the tutorials.
@@ -30,8 +28,6 @@ At the following link, several options are presented, with the indication of the
 </blockquote></details>
 <br><br>
 
-
-
 ## Hands-on sessions
 
 The tutorials are divided into three folders for each one of the days of hands-on sessions. In there, you can find a summary of their topics. 
@@ -42,6 +38,4 @@ The tutorials are divided into three folders for each one of the days of hands-o
 
 Here you can find a list of "challenges", ordered by difficulty, which the participants can complete, as individuals or in teams, and submit their answers. 
 
-**[Challenge](./Challenge/)**
-
-**[My answers](./Challenge/myans.md)**
+**[Challenge](./Challenge/)** $\;\cdot\;$ **[My answers](./Challenge/myans.md)**
