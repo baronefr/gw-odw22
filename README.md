@@ -38,4 +38,4 @@ The tutorials are divided into three folders for each one of the days of hands-o
 
 Here you can find a list of "challenges", ordered by difficulty, which the participants can complete, as individuals or in teams, and submit their answers. 
 
-**[Challenge](./Challenge/)** $\cdot$ **[My answers](./Challenge/myans.md)**
+**[Challenge](./Challenge/)** | **[My answers](./Challenge/myans.md)**
